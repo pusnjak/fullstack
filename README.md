@@ -6,7 +6,6 @@ Repo destinado para los usos internos del curso. Consultas? Sugerencias? Contact
 
 
 Alumnos:
-- Sus nombres acá
 - Ignacio Marenco
 - Martin Ibarra
 - luis Revollo
