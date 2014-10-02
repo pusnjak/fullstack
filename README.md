@@ -14,12 +14,4 @@ Alumnos:
 - luis Revollo
 - Ignacio Marenco
 - Martin Ibarra
-- luis Revollo
-- Nodejs
-- Mongodb
--estoy modificando esto
-y yo esto!
-lo logre mierda 
-
-sarasasarasa
-comentario!!
+que funcioneeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
