@@ -8,6 +8,7 @@ Repo destinado para los usos internos del curso. Consultas? Sugerencias? Contact
 Prueba 1
 
 Alumnos:
+-ferrari juan
 -Ignacio Martin
 -Ignacio Marenco
 -Martin Ibarra
