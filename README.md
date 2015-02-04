@@ -10,6 +10,7 @@ Prueba 1
 Prueba 2 (Anda?)
 
 Alumnos:
+-Diego Rodriguez
 -Francisco Torres
 -ferrari juan
 -Ignacio Martin
